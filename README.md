@@ -9,7 +9,7 @@
 - Previosly I used a 42 key layout and now I moved to a 36 key layout
 
  ### 36 key layout
-![keymap_drawer_representation](./keymap-image/corne/36-keys/36-keys.svg?raw=true "keymap representation")
+![keymap_drawer_representation](./docs/36-keys/36-keys.svg?raw=true "keymap representation")
 
  ### 42 key layout
-![keymap_drawer_representation](./keymap-image/corne/42-keys/42-keys.svg?raw=true "keymap representation")
+![keymap_drawer_representation](./docs/42-keys/42-keys.svg?raw=true "keymap representation")

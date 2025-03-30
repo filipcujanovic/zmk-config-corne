@@ -6,7 +6,10 @@
 
 ## Personal layout info
 
-- Previosly I used a 42 key layout and now I moved to a 36 key layout
+- Previosly I used a 42 key layout and a 36 key layout, now using 34 keylayout to mimic my sweep
+-
+ ### 34 key layout
+![keymap_drawer_representation](./docs/34-keys/34-keys.svg?raw=true "keymap representation")
 
  ### 36 key layout
 ![keymap_drawer_representation](./docs/36-keys/36-keys.svg?raw=true "keymap representation")

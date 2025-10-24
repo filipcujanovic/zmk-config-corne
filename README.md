@@ -9,10 +9,10 @@
 - Previosly I used a 42 key layout and a 36 key layout, now using 34 keylayout to mimic my sweep
 -
  ### 34 key layout
-![keymap_drawer_representation](./docs/34-keys/34-keys.svg?raw=true "keymap representation")
+![keymap_drawer_representation](./docs/34-keys/keymap.svg?raw=true "keymap representation")
 
  ### 36 key layout
-![keymap_drawer_representation](./docs/36-keys/36-keys.svg?raw=true "keymap representation")
+![keymap_drawer_representation](./docs/36-keys/keymap.svg?raw=true "keymap representation")
 
  ### 42 key layout
-![keymap_drawer_representation](./docs/42-keys/42-keys.svg?raw=true "keymap representation")
+![keymap_drawer_representation](./docs/42-keys/keymap.svg?raw=true "keymap representation")
